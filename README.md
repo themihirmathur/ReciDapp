@@ -58,8 +58,8 @@ To get started with ReciDapp, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/reciDapp.git
-    cd reciDapp
+    git clone https://github.com/themihirmathur/ReciDapp.git
+    cd ReciDapp
     ```
 
 2. **Install Dependencies**:
